@@ -1,2 +1,2 @@
 # amazon.com-clone
-amazon shoping websire clone using HTML and CSS
+amazon shoping website clone using HTML and CSS
