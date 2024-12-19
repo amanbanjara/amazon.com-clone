@@ -13,7 +13,7 @@ An Amazon-like e-commerce web application that mimics the core functionality of 
 
 ## Demo
 
-[Live Demo](#) (Replace with your deployed link)
+[Live Demo](#)  https://amanbanjara.github.io/amazon.com-clone/
 
 ![Screenshot](screenshot.png) (Add a screenshot of your app)
 
@@ -29,7 +29,7 @@ An Amazon-like e-commerce web application that mimics the core functionality of 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/amazon-clone.git
+   git clone  https://amanbanjara.github.io/amazon.com-clone/
    cd amazon-clone
    ```
 
