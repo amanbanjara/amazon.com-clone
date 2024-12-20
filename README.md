@@ -98,6 +98,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any inquiries or feedback, reach out to:
-- **Name:** Your Name
-- **Email:** your.email@example.com
-- **GitHub:** [your-username](https://github.com/your-username)
+- **aman:** Your Name
+- **neatsot@gmail.com:** your.email@example.com
+- **GitHub:** [amanbanjara(https://github.com/amanbanjara)
