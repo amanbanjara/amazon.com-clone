@@ -9,7 +9,7 @@ An Amazon-like e-commerce web application that mimics the core functionality of 
 - **Search & Filtering:** Search bar and filters to browse products.
 - **Shopping Cart:** Add, update, and remove products from the cart.
 - **Order Placement:** Place orders and view order history.
-- **Admin Panel:** Manage products, users, and orders.
+- **Admin Panel:** Manage products, users, and orders. 
   
 ## Demo  
 
