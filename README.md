@@ -10,7 +10,7 @@ An Amazon-like e-commerce web application that mimics the core functionality of 
 - **Shopping Cart:** Add, update, and remove products from the cart.
 - **Order Placement:** Place orders and view order history.
 - **Admin Panel:** Manage products, users, and orders.
- 
+  
 ## Demo  
 
 [Live Demo](#)  https://amanbanjara.github.io/amazon.com-clone/
