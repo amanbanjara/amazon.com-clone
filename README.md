@@ -1,7 +1,7 @@
  # Amazon Clone 
         
 An Amazon-like e-commerce web application that mimics the core functionality of the Amazon platform, including product listings, shopping cart, user authentication, and order management.
- 
+  
 ## Features       
 
 - **User Authentication:** Sign up, log in, and log out functionalities.  
