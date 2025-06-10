@@ -3,7 +3,7 @@
 An Amazon-like e-commerce web application that mimics the cor e functionality of the Amazon platform, including product listings, shopping cart, user authentication, and order  management.  
     
 ## Features         
-
+ 
 - **User Authentication:** Sign up, log in, and log out functionalities.  
 - **Product Listings:** Display of products with details such as price, description, and images.
 - **Search & Filtering:** Search bar and filters to browse products.
